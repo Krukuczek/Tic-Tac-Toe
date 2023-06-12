@@ -204,3 +204,12 @@ a:hover{
       height: 300px;
     }
   }
+@media (max-width: 914px){
+    #menuContainer{
+        font-size: 3vw;
+        gap:2em;
+    }
+    #playerInputContainer{
+        flex-direction: column;
+    }
+}
